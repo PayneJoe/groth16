@@ -80,10 +80,10 @@ debug = true
 
 
 [patch.crates-io]
-ark-ff = { git = "https://github.com/arkworks-rs/algebra/" }
-ark-ec = { git = "https://github.com/arkworks-rs/algebra/" }
-ark-poly = { git = "https://github.com/arkworks-rs/algebra/" }
-ark-serialize = { git = "https://github.com/arkworks-rs/algebra/" }
+ark-ff = { git = "https://github.com/PayneJoe/algebra/" }
+ark-ec = { git = "https://github.com/PayneJoe/algebra/" }
+ark-poly = { git = "https://github.com/PayneJoe/algebra/" }
+ark-serialize = { git = "https://github.com/PayneJoe/algebra/" }
 ark-bls12-381 = { git = "https://github.com/arkworks-rs/algebra/" }
 ark-mnt4-298 = { git = "https://github.com/arkworks-rs/algebra/" }
 ark-mnt6-298 = { git = "https://github.com/arkworks-rs/algebra/" }
